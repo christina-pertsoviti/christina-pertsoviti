@@ -1,7 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,100:1C2541&text=Christina%20Pertsoviti&fontColor=F4D58D&fontSize=42&fontAlignY=36&desc=Junior%20Software%20Developer%20%7C%20Java%20%26%20Backend&descAlignY=56&descSize=18)
 
+# Christina Pertsoviti
+
+### Junior Software Developer | Java & Backend
 ### Java · Spring Boot · SQL · REST APIs
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Junior%20Java%20%2F%20Backend-C9A227?style=for-the-badge&labelColor=0B132B)](https://www.linkedin.com/in/christina-pertsoviti-1518793ab/)
